@@ -41,7 +41,7 @@ Object detection of sperm entities according to morphological classification in 
 * Change annotation methodology (edge)
 * [Analyze sperm motility](https://github.com/boguss1225/sperm_motility_analyzer)
 
-## PAPER
+## PRELEASED PAPER (CONFERENCE)
 [Deep learning based automatic acrosome reaction
 classification system in sperm](https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/sma/conference/sma2020fall/presentation/12.pdf)
 
